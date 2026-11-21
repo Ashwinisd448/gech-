@@ -1,0 +1,6 @@
+{
+  "name": "SmartCare",
+  "description": "Centralized Smart Healthcare Management System connecting patients, doctors, nurses, caregivers, and hospital administrators.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
